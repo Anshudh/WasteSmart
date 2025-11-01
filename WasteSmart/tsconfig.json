@@ -4,6 +4,8 @@
     "target": "es2020",
     "lib": ["es2023"],
     "module": "nodenext",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
     "moduleResolution": "nodenext",
     "strict": true,
     "esModuleInterop": true,
